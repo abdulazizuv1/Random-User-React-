@@ -1,0 +1,12 @@
+.body.night {
+    background-color: #282F37;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -99;
+    width: 100%;
+    height: 100vh;
+}
+.body{
+    transition: all .3s ease;
+}

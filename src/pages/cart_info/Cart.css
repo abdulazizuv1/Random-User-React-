@@ -1,0 +1,24 @@
+.btn{
+    text-align: center;
+}
+
+.desc{
+    margin-bottom: 20px;
+}
+.cart_btn{
+    padding: 12px 40px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #CFA57B;
+    font-weight: 500;
+    transition: all .3s ease;
+    color: white;
+}
+.cart_btn:hover{
+    background-color: #a5805a;
+}
+.body.night{
+    color: #CFA57B;
+}
